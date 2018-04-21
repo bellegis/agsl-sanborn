@@ -447,6 +447,25 @@ h4 {
     border: 1.3px solid rgba(96, 96, 96, .6);
 }
 
+.animate { transition: transform 0.3s ease-out; }
+
+.ms-touch.slider {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  
+  -ms-overflow-style: none;
+  /* Hides the scrollbar. */
+  
+  -ms-scroll-chaining: none;
+  /* Prevents Metro from swiping to the next tab or app. */
+  
+  -ms-scroll-snap-type: mandatory;
+  /* Forces a snap scroll behavior on your images. */
+  
+  -ms-scroll-snap-points-x: snapInterval(0%, 100%);
+  /* Defines the y and x intervals to snap to when scrolling. */
+}
+
 
 
 
@@ -672,9 +691,9 @@ h4 {
             float: left;
         }
 
-        #opacity-slider {
-            display: none;
-        }
+        /* #opacity-slider { */
+            /* display: none; */
+        /* } */
 
         #make-history-box {
             display: none;
