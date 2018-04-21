@@ -415,7 +415,7 @@ function getData(map) {
         /* PUSH INFO TO POPUP USING RESPONSIVE POPUP PLUGIN SO THAT POPUPS ARE CENTERED ON MOBILE
         EVALUATE EFFICACY OF THIS PLUGIN -- IS THERE SOMETHING MORE EFFECTIVE OUT THERE? */
         var popup = L.responsivePopup().setContent(info);	
-        sheetBoundaries.bindPopup(popup, {offset: new L.Point(80, 80)}).openPopup();
+        sheetBoundaries.bindPopup(popup, {offset: new L.Point(60, 60)}).openPopup();
     }
 	
 	
@@ -476,31 +476,23 @@ function getData(map) {
 
 // GET THE MODALS
 var aboutModal = document.getElementById('about-modal');
-var dataModal = document.getElementById('data-modal');
 
 // GET THE IDS OF THE BUTTONS THAT OPEN THE MODALS
 var aboutBtn = document.getElementById("about-button");
-var dataBtn = document.getElementById("data-button");
 
 // GET THE <SPAN> ELEMENT THAT CLOSES THE MODAL
 var aboutSpan = document.getElementsByClassName("close-about")[0];
-var dataSpan = document.getElementsByClassName("close-data")[0];
 
 // WHEN THE USER CLICKS ON THE BUTTONS, OPEN EITHER MODAL
 aboutBtn.onclick = function () {
     aboutModal.style.display = "block";
-}
-dataBtn.onclick = function () {
-    dataModal.style.display = "block";
 }
 
 // WHEN THE USER CLICKS ON THE <SPAN> (X), CLOSE THE MODAL
 aboutSpan.onclick = function () {
     aboutModal.style.display = "none";
 }
-dataSpan.onclick = function () {
-    dataModal.style.display = "none";
-}
+
 
 
 

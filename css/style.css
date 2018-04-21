@@ -96,7 +96,7 @@ h1 {
     left: 0;
     width: 100%;
     padding-top: 10px;
-    padding-bottom: .5;
+    padding-bottom: .45;
 }
 
 /* MENU ITEMS TEXT STYLING */
@@ -106,7 +106,7 @@ h1 {
     font-size: 20px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
-    color: rgb(255, 189, 0);
+    color: rgb(141, 141, 142);
 }
 
 
@@ -116,13 +116,13 @@ h1 {
     cursor: pointer;
     text-transform: uppercase;
     float: right;
-    padding-right: 50px;
+    padding-right: 20px;
     padding-top: 20px;
     font-size: 20px;
     text-decoration: none;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
-    color: rgb(255, 189, 0);
+    color:rgb(80,80,80);
 }
 
 /* DATA MENU ITEM STYLING */
@@ -303,7 +303,7 @@ h1 {
     top: 9em;
     border-radius: 4px;
     border: 1px;
-    height: 7em;
+    height: 2.3em;
     width: 198px;
     z-index: 100000;
     background-color: rgba(226, 140, 169, 0.90);
@@ -317,11 +317,16 @@ h1 {
     
 }
 
+#make-history-box li{
+	margin-left: .75em;
+}
+
 
 /* MAKE BACKGROUND DIV CHANGE COLOR */
 
 #make-history-box p {
     margin-bottom: 10px;
+	line-height:1.3em;
 }
 
 /* STYLE MAKE HISTORY TEXT */
@@ -455,7 +460,7 @@ h4 {
     border-radius: 4px;
     cursor: pointer;
     height: 1.5em;
-    width: 85%;
+    width: 90%;
 }
 
 .item-link:hover {
@@ -492,7 +497,7 @@ h4 {
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    width: auto;
+    width: 290px;
     max-height: 300px;
     overflow-x: auto;
     overflow-y: none;
