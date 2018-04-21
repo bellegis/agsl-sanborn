@@ -1,0 +1,673 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "MD",
+				"Where": "Frederick",
+				"When": "March 18",
+				"What": "city removed",
+				"Mon_Desc": "bust of former Supreme Court Chief Justice Roger B. Taney, author of Dred Scott decision",
+				"Year_Inst": 1932,
+				"More": "http:\/\/www.baltimoresun.com\/news\/maryland\/bs-md-ci-frederick-statues-20170318-story.html"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-77.412771592257968, 39.415779374210459]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "MA",
+				"Where": "Boston, on Georges Island in harbor",
+				"When": "June 16",
+				"What": "state boarded up; deciding next steps",
+				"Mon_Desc": "headstone commemorating 13 Confederate soldiers",
+				"Year_Inst": 1963,
+				"More": "https:\/\/www.bostonglobe.com\/metro\/2017\/08\/16\/state-officials-still-undecided-about-fate-boston-only-Confederate-memorial\/AsQaBPshPuRW50aSuRVxEK\/story.html"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-70.927623775317045, 42.320344304611915]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "MO",
+				"Where": "St. Louis, in Forest Park",
+				"When": "late June",
+				"What": "removed as part of lawsuit settlement",
+				"Mon_Desc": "Confederate monument",
+				"Year_Inst": 1914,
+				"More": "http:\/\/www.stltoday.com\/news\/local\/govt-and-politics\/confederate-monument-will-be-gone-from-forest-park-by-friday\/article_f5ffd027-64fe-5483-8f71-871c517b4f9f.html"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-90.279555722511489, 38.644412151273741]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "LA",
+				"Where": "New Orleans",
+				"When": "April - May",
+				"What": "city removed",
+				"Mon_Desc": "one of four Confederate Monuments removed this Spring",
+				"Year_Inst": 1891,
+				"More": "https:\/\/www.nytimes.com\/2017\/05\/07\/us\/new-orleans-monuments.html"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-90.063778340248433, 29.951217023399884]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "FL",
+				"Where": "Tampa, in park",
+				"When": "August 13",
+				"What": "red paint, derogatory comments written",
+				"Mon_Desc": "Confederate Memorial Park",
+				"Year_Inst": 2009,
+				"More": "http:\/\/www.tampabay.com\/news\/publicsafety\/crime\/deputies-investigating-vandalism-at-confederate-memorial-park-in-tampa\/2333678"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-82.327591194948951, 27.997387635611169]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "FL",
+				"Where": "Gainesville, outside county administration building",
+				"When": "August 14",
+				"What": "splashed with red paint; removed",
+				"Mon_Desc": "Confederate statue",
+				"Year_Inst": 1904,
+				"More": "http:\/\/abcnews.go.com\/US\/wireStory\/confederate-memorial-park-florida-vandalized-paint-49206926"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-82.324851626984568, 29.651758369593232]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "NC",
+				"Where": "Durham, old county courthouse",
+				"When": "August 14",
+				"What": "toppled",
+				"Mon_Desc": "Confederate Statue",
+				"Year_Inst": 1924,
+				"More": "http:\/\/www.sandiegouniontribune.com\/opinion\/the-conversation\/sd-charlottesville-confederate-statues-flags-20170814-htmlstory.html"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-78.898902971003494, 35.9944140299041]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "NC",
+				"Where": "Wilmington",
+				"When": "August 15",
+				"What": "red paint",
+				"Mon_Desc": "statue of Confederate attorney general George Davis",
+				"Year_Inst": 1911,
+				"More": "http:\/\/www.starnewsonline.com\/news\/20170816\/wilmington-confederate-statues-vandalized"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-77.946067669010546, 34.23553670298881]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "NC",
+				"Where": "Wilmington",
+				"When": "August 15",
+				"What": "red paint",
+				"Mon_Desc": "Confederate Memorial",
+				"Year_Inst": 1924,
+				"More": "http:\/\/www.starnewsonline.com\/news\/20170816\/wilmington-confederate-statues-vandalized"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-77.94593917811622, 34.234415976855068]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "AL",
+				"Where": "Birmingham",
+				"When": "August 15",
+				"What": "city covered up",
+				"Mon_Desc": "memorial to Confederate soldiers",
+				"Year_Inst": 1905,
+				"More": "http:\/\/abcnews.go.com\/US\/wireStory\/birmingham-covers-confederate-monument-49247435"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-86.809776188625463, 33.520571107787575]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "FL",
+				"Where": "St. Petersburg",
+				"When": "August 15",
+				"What": "city removed",
+				"Mon_Desc": "Confederate marker",
+				"Year_Inst": 1939,
+				"More": "http:\/\/www.tampabay.com\/blogs\/baybuzz\/st-pete-confederate-marker-on-waterfront-remains-mystery\/2333756"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-82.63217219669005, 27.771264144910969]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "MD",
+				"Where": "Baltimore",
+				"When": "August 15-16",
+				"What": "one of four city removed",
+				"Mon_Desc": "Monument honoring Chief Justice Roger B. Taney, author of the Dred Scott decision",
+				"Year_Inst": 1879,
+				"More": "http:\/\/www.baltimoresun.com\/news\/maryland\/baltimore-city\/bs-md-ci-monuments-removed-20170816-story.html"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-76.615708890213128, 39.298137338192284]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "MD",
+				"Where": "Baltimore",
+				"When": "August 15-16",
+				"What": "one of four city removed",
+				"Mon_Desc": "monument commemorating Confederate generals",
+				"Year_Inst": 1948,
+				"More": "http:\/\/www.baltimoresun.com\/news\/maryland\/baltimore-city\/bs-md-ci-monuments-removed-20170816-story.html"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-76.619673667114213, 39.324532104265046]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "MD",
+				"Where": "Baltimore",
+				"When": "August 15-16",
+				"What": "one of four city removed",
+				"Mon_Desc": "Confederate soldiers",
+				"Year_Inst": 1902,
+				"More": "http:\/\/www.baltimoresun.com\/news\/maryland\/baltimore-city\/bs-md-ci-monuments-removed-20170816-story.html"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-76.622598024690689, 39.308737242108144]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "MD",
+				"Where": "Baltimore",
+				"When": "August 15-16",
+				"What": "one of four city removed",
+				"Mon_Desc": "monument honoring Confederate women",
+				"Year_Inst": 1917,
+				"More": "http:\/\/www.baltimoresun.com\/news\/maryland\/baltimore-city\/bs-md-ci-monuments-removed-20170816-story.html"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-76.618098701874786, 39.332876080858782]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "TN",
+				"Where": "Knoxville, Fort Sanders neighborhood",
+				"When": "August 16",
+				"What": "green paint",
+				"Mon_Desc": "Confederate soldiers",
+				"Year_Inst": 1914,
+				"More": "http:\/\/www.knoxnews.com\/story\/news\/2017\/08\/16\/petition-urges-removal-confederate-monument-ft-sanders\/572351001\/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-83.93385710488414, 35.95905859427662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "CA",
+				"Where": "\tLos Angeles, Hollywood Forever Cemetery",
+				"When": "August 16",
+				"What": "cemetery removed",
+				"Mon_Desc": "monument commemorating Confederate veterans",
+				"Year_Inst": 1925,
+				"More": "http:\/\/abcnews.go.com\/US\/wireStory\/los-angeles-cemetery-removes-confederate-monument-49254180"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-118.3182516563821, 34.089317278346428]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "CA",
+				"Where": "San Diego, Horton Plaza",
+				"When": "August 16",
+				"What": "city removed",
+				"Mon_Desc": "\tplaque honoring Confederate president Jefferson Davis",
+				"Year_Inst": 1926,
+				"More": "http:\/\/www.latimes.com\/local\/lanow\/la-me-horton-plaza-confederate-20170816-story.html"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-117.16155571985141, 32.715409093816817]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "WI",
+				"Where": "Madison",
+				"When": "August 16",
+				"What": "city removed",
+				"Mon_Desc": "\ttwo cemetery monuments to Confederate soldiers",
+				"Year_Inst": 1930,
+				"More": "http:\/\/host.madison.com\/wsj\/news\/local\/madison-mayor-paul-soglin-orders-removal-of-confederate-monuments-at\/article_0cd509e6-3b6b-56ab-b05c-c693d84de05d.html"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-89.432234617346808, 43.06284108481524]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "NY",
+				"Where": "Brooklyn, closed church",
+				"When": "August 16",
+				"What": "church removed",
+				"Mon_Desc": "two plaques honoring Confederate General Robert E. Lee",
+				"Year_Inst": 1912,
+				"More": "https:\/\/www.nytimes.com\/aponline\/2017\/08\/16\/nyregion\/ap-us-nyc-church-confederate-plaques.html?mtrref=www.google.com"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-73.974901384134611, 40.676964077083042]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "NC",
+				"Where": "Duke University",
+				"When": "August 16; August 19",
+				"What": "vandalized; university removed",
+				"Mon_Desc": "statue of General Robert E. Lee",
+				"Year_Inst": 1920,
+				"More": "https:\/\/www.washingtonpost.com\/news\/grade-point\/wp\/2017\/08\/19\/in-wake-of-charlottesville-duke-university-removes-robert-e-lee-statue-after-it-was-vandalized\/?utm_term=.b502a91b1ecd"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-78.940180953149252, 36.00188996147341]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "AZ",
+				"Where": "Gold Canyon area along U.S. Highway 60",
+				"When": "August 17",
+				"What": "tarred and feathered",
+				"Mon_Desc": "Plaque commemorating Jefferson Davis",
+				"Year_Inst": 1943,
+				"More": "http:\/\/www.mercurynews.com\/2017\/08\/17\/arizona-confederate-monuments-defaced\/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-111.43922343687645, 33.336682938475633]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "AZ",
+				"Where": "Phoenix, State Capitol",
+				"When": "August 17",
+				"What": "spray-painted",
+				"Mon_Desc": "Confederate troops monument",
+				"Year_Inst": 1961,
+				"More": "http:\/\/www.phoenixnewtimes.com\/news\/arizona-conderate-statue-destroy-9602686"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-112.09467120861309, 33.448152648466547]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "OH",
+				"Where": "Franklin",
+				"When": "August 17",
+				"What": "city removed",
+				"Mon_Desc": "\tstone marker commemorating Robert E. Lee",
+				"Year_Inst": 1927,
+				"More": "http:\/\/www.cincinnati.com\/story\/news\/2017\/08\/20\/group-protests-removal-confederate-memorial-ohio\/584241001\/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-84.315341596314894, 39.545069215141112]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "NC",
+				"Where": "Winston-Salem",
+				"When": "August 18",
+				"What": "spray painted",
+				"Mon_Desc": "statue of Confederate soldier",
+				"Year_Inst": 1905,
+				"More": "http:\/\/www.journalnow.com\/news\/local\/confederate-soldier-statue-vandalized-in-downtown-winston-salem\/article_39ecd89f-d5d8-523b-8494-ab76b15095c5.html"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.24491090710265, 36.098374126921314]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "VA",
+				"Where": "Leesburg, outside county courthouse",
+				"When": "August 18",
+				"What": "spray-painted",
+				"Mon_Desc": "\tstatue of Confederate soldier",
+				"Year_Inst": 1908,
+				"More": "https:\/\/www.washingtonpost.com\/local\/you-lost-confederate-statue-vandalized-overnight-in-virginia\/2017\/08\/17\/34d73196-8351-11e7-ab27-1a21a8e006ab_story.html?utm_term=.70d53d8bef6d"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-77.563362230061642, 39.115913165227049]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "MO",
+				"Where": "Kansas City",
+				"When": "August 18",
+				"What": "red spray paint; will be removed",
+				"Mon_Desc": "monument recognizing women who supported Confederacy and slavery",
+				"Year_Inst": 1934,
+				"More": "http:\/\/www.kansascity.com\/news\/local\/article168249392.html"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-94.603431065484969, 39.028236749104856]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "TX",
+				"Where": "Dallas",
+				"When": "August 18",
+				"What": "spray painted",
+				"Mon_Desc": "Robert E. Lee statue",
+				"Year_Inst": 1936,
+				"More": "https:\/\/www.dallasnews.com\/news\/crime\/2017\/08\/19\/vandals-urinate-spray-paint-nazis-statue-robert-e-lee-oak-lawn"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-96.804044475726556, 32.808718559420363]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "MD",
+				"Where": "Annapolis",
+				"When": "August 18",
+				"What": "removed",
+				"Mon_Desc": "statue of Roger B. Taney",
+				"Year_Inst": 1872,
+				"More": "http:\/\/www.baltimoresun.com\/news\/maryland\/politics\/bs-md-taney-statue-removed-20170818-story.html"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-76.491155680891694, 38.978938573703921]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "NY",
+				"Where": "Bronx Community College",
+				"When": "August 18",
+				"What": "college removed",
+				"Mon_Desc": "two busts, one of of Robert E. Lee and another of fellow Confederate general Stonewall Jackson",
+				"Year_Inst": 1901,
+				"More": "http:\/\/bronx.news12.com\/story\/36167551\/confederate-statues-removed-from-bronx-community-college"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-73.915433782753738, 40.85831120907055]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "FL",
+				"Where": "Daytona Beach",
+				"When": "August 18",
+				"What": "city removed",
+				"Mon_Desc": "one of three plaques commemorating Confederate soldiers",
+				"Year_Inst": 1961,
+				"More": "http:\/\/www.news-journalonline.com\/news\/20170817\/daytona-beach-removes-confederate-markers"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.019573021106879, 29.213218064858207]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "OH",
+				"Where": "Worthington",
+				"When": "August 18",
+				"What": "property owner removed",
+				"Mon_Desc": "Confederate marker",
+				"Year_Inst": 2004,
+				"More": "http:\/\/www.dispatch.com\/news\/20170819\/confederate-generals-historic-marker-removed-in-worthington"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-83.018640980853604, 40.086304647069333]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "MT",
+				"Where": "Helena, public park",
+				"When": "August 18",
+				"What": "city removed",
+				"Mon_Desc": "\tmemorial to Confederate soldiers",
+				"Year_Inst": 1916,
+				"More": "https:\/\/www.cbsnews.com\/news\/helena-montana-removes-confederate-memorial\/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-112.0395512987424, 46.593357962530433]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "IN",
+				"Where": "Indianapolis, Garfield Park",
+				"When": "August 19",
+				"What": "damaged by hammer",
+				"Mon_Desc": "Confederate soldiers monument",
+				"Year_Inst": 1928,
+				"More": "http:\/\/fox59.com\/2017\/08\/19\/indianapolis-man-arrested-for-vandalizing-confederate-monument-in-garfield-park\/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-86.146508302750874, 39.733711303184599]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "FL",
+				"Where": "Bradenton, next to courthouse",
+				"When": "August 19",
+				"What": "county covered",
+				"Mon_Desc": "Confederate monument",
+				"Year_Inst": 1924,
+				"More": "http:\/\/www.bradenton.com\/news\/local\/article168428452.html"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-82.573106337405747, 27.495322825237881]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "FL",
+				"Where": "\tWest Palm Beach, Woodlawn Cemetery",
+				"When": "August 20",
+				"What": "red spray paint; stone damaged",
+				"Mon_Desc": "Confederate monument with carved image of Confederate flag",
+				"Year_Inst": 1941,
+				"More": "http:\/\/www.palmbeachpost.com\/news\/crime--law\/update-confederate-monument-west-palm-cemetery-vandalized\/Va9o3zbBryBOkAMu3rPshK\/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.054672800051279, 26.702186800410246]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "TX",
+				"Where": "Houston, Hermann Park",
+				"When": "August 19",
+				"What": "man tried to plant explosives",
+				"Mon_Desc": "statue of Confederate officer Richard Dowling",
+				"Year_Inst": 1905,
+				"More": "http:\/\/www.chron.com\/news\/houston-texas\/article\/HPD-HFD-FBI-on-scene-overnight-at-Rice-11946918.php"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-95.390261700487557, 29.71935340084217]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "TX",
+				"Where": "Austin, University of Texas campus",
+				"When": "August 21",
+				"What": "university removed",
+				"Mon_Desc": "four statues honoring Confederate figures",
+				"Year_Inst": 1930,
+				"More": "https:\/\/www.nytimes.com\/2017\/08\/21\/us\/texas-austin-confederate-statues.html?mcubz=0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-97.739434152228966, 30.284901777794396]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"Id": 0,
+				"State": "MD",
+				"Where": "Ellicott City, outside court building",
+				"When": "August 22",
+				"What": "county removed",
+				"Mon_Desc": "Confederate monument",
+				"Year_Inst": 1948,
+				"More": "http:\/\/www.baltimoresun.com\/news\/maryland\/howard\/ph-ho-cf-monument-down-0824-20170822-story.html"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-76.798398783364192, 39.268481281129077]
+			}
+		}
+	]
+}
