@@ -629,57 +629,7 @@ h4 {
             font-size: 26px;
         }
 
-        .leaflet-control-layers {
-            background: rgba(255, 255, 255, 1);
-            box-shadow: 0 0 2px 2px #707070;
-            font-size: 16px;
-            font-weight: bold;
-        }
-
-        .leaflet-control-layers {
-            font-size: 12px;
-            font-weight: normal;
-            display: block;
-            left: 5px;
-            top: -.5em;
-            width: 45% !important;
-        }
-
-        .leaflet-right {
-            width: 320px;
-            left: 0;
-        }
-
-        .leaflet-left {
-            width: 320px;
-            left: 0;
-        }
-
-        .leaflet-top {
-            height: 400px;
-        }
-
-        .geocoder-control {
-            top: 2.25em;
-            left: 5px;
-            width: 70% !important;
-        }
-
-        .leaflet-left .leaflet-control {
-            margin-left: 0px;
-        }
-        .leaflet-right .leaflet-control {
-            margin-left: 0px;
-            float: left;
-        }
-
-        #opacity-slider {
-            display: none;
-        }
-
-        #make-history-box {
-            display: none;
-        }
+       
 
     }
 
@@ -759,6 +709,62 @@ h4 {
     /**********************************************************************/
     /* PHONE SCREEN SIZES (600px OR LESS) */
     @media (max-width: 600px) {
+		
+		
+		 .leaflet-control-layers {
+            background: rgba(255, 255, 255, 1);
+            box-shadow: 0 0 2px 2px #707070;
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        .leaflet-control-layers {
+            font-size: 12px;
+            font-weight: normal;
+            display: block;
+            left: 5px;
+            top: -.5em;
+            width: 45% !important;
+        }
+
+        .leaflet-right {
+            width: 320px;
+            left: 0;
+        }
+
+        .leaflet-left {
+            width: 320px;
+            left: 0;
+        }
+
+        .leaflet-top {
+            height: 400px;
+        }
+
+        .geocoder-control {
+            top: 2.25em;
+            left: 5px;
+            width: 70% !important;
+        }
+
+        .leaflet-left .leaflet-control {
+            margin-left: 0px;
+        }
+        .leaflet-right .leaflet-control {
+            margin-left: 0px;
+            float: left;
+        }
+
+        #opacity-slider {
+            display: none;
+        }
+
+        #make-history-box {
+            display: none;
+        }
+		
+		
+		
 
         /* POPUP STUFF */
         .custom-popup .leaflet-popup-content-wrapper {
