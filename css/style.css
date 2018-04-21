@@ -177,7 +177,7 @@ h1 {
 /* MODAL CONTENT BOX */
 
 .modal-content {
-    background-color: rgba(0, 0, 0, .85);
+    background-color: rgba(0, 0, 0, .9);
 	color: white;
 	max-width:650px;
 	border-radius: 8px;
@@ -196,10 +196,16 @@ h1 {
 .custom-header{
 	color:#ffbd00;
 	font-weight:300;
-	font-size:30px;
+	font-size:24px;
 	padding-left:none;
 	margin-left:none !impportant;
+}
+
+.modal a:link {
+	font-size:16px !important;
+	color:background-color: rgb(226, 140, 169) !important;
 }	
+
 
 
 /* MODAL CLOSE BUTTON */
