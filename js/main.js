@@ -485,6 +485,8 @@ var aboutModal = document.getElementById('about-modal');
 // GET THE IDS OF THE BUTTONS THAT OPEN THE MODALS
 var aboutBtn = document.getElementById("about-button");
 
+
+
 // GET THE <SPAN> ELEMENT THAT CLOSES THE MODAL
 var aboutSpan = document.getElementsByClassName("close-about")[0];
 
@@ -497,6 +499,8 @@ aboutBtn.onclick = function () {
 aboutSpan.onclick = function () {
     aboutModal.style.display = "none";
 }
+
+
 
 
 

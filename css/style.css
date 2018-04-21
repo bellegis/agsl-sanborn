@@ -775,6 +775,20 @@ h4 {
             max-height: 100px;
             bottom: 5px;
         }
+		
+		
+		.item-link {
+			font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+			margin-top: 12px;
+			padding: 3px 3px 3px 3px;
+			margin-bottom: 12px;
+			font-weight: bold;
+			background-color: rgba(255, 189, 0, .95);
+			border-radius: 4px;
+			cursor: pointer;
+			height: 2.7em;
+			width: auto;
+		}
 
         .leaflet-popup {
             margin-top: 20px;
