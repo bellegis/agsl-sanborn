@@ -173,6 +173,11 @@ $(".leaflet-control-layers input:checkbox").change(function() {
 
     // ADD THE CONTROL OBJECT CONTAINING THE SLIDER ELEMENT TO THE MAP
     sliderControl.addTo(map);
+	
+	
+	if (navigator.msMaxTouchPoints) {
+		$('#opacity-sliderslider').addClass('ms-touch');
+}
 
 })();
 // END OF OPACITY SLIDER JAVASCRIPT

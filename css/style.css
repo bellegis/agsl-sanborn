@@ -712,6 +712,10 @@ h4 {
             padding-right: 50px;
             padding-top: 1em;
         }
+		
+		top-buttons{
+			width:auto;
+		}
 
         #data-button {
             float: right;
@@ -802,16 +806,16 @@ h4 {
         
         /* STYLING MENU ITEMS */
         .mobile-buttons {
-            width: 5em;
+            width: 6em;
             float: right;
         }
 
         #about-button {
             min-width: 3.7em;
-            padding-right: 1em;
+            padding-right: .1em;
             font-size: 16px;
             text-transform: none;
-            padding-top: .7em;
+            padding-top: 1em;
         }
 
         #data-button {
