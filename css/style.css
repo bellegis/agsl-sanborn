@@ -586,6 +586,17 @@ h4 {
     h1 {
         font-size: 38px;
     }
+	
+  #opacity-slider {
+		display: none;
+	}
+
+	#make-history-box {
+		top:7.5em;
+	}
+			
+		
+	
 }
 
 @media (max-width: 1320px) {
@@ -755,14 +766,7 @@ h4 {
             float: left;
         }
 
-        #opacity-slider {
-            display: none;
-        }
-
-        #make-history-box {
-            display: none;
-        }
-		
+  
 		
 		
 
