@@ -177,13 +177,30 @@ h1 {
 /* MODAL CONTENT BOX */
 
 .modal-content {
-    background-color: #fefefe;
+    background-color: rgba(0, 0, 0, .85);
+	color: white;
+	max-width:650px;
+	border-radius: 8px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 300;
+    font-size: 16px;
+	line-height: 24px;
+	overflow-x: auto;
+    overflow-y: none;
     /* 15% FROM THE TOP AND CENTERED */
     margin: 15% auto;
     padding: 20px;
-    border: 1px solid #888;
     width: 80%;
 }
+
+.custom-header{
+	color:#ffbd00;
+	font-weight:300;
+	font-size:30px;
+	padding-left:none;
+	margin-left:none !impportant;
+}	
+
 
 /* MODAL CLOSE BUTTON */
 
